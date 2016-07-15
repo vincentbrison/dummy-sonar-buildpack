@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 default_process_types:
-  web: sh sonar/war/boot.sh
+  web: sh bin/linux-x86-64/sonar.sh
