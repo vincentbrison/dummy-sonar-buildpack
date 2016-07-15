@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+default_process_types:
+  web: sh sonar/war/boot.sh
